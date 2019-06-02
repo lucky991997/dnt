@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Aptech_Sem4/GitHub/dntShop/dntShop_ejb/src/java/bean/CustomersFacadeLocal.java</file>
+            <file>file:/D:/Aptech_Sem4/GitHub/dntShop/dntShop_ejb/src/java/bean/OrdersDetailsFacade.java</file>
+            <file>file:/D:/Aptech_Sem4/GitHub/dntShop/dntShop_ejb/src/java/entity/ComparedDetailProduct.java</file>
+            <file>file:/D:/Aptech_Sem4/GitHub/dntShop/dntShop_ejb/src/java/bean/WishlistFacadeLocal.java</file>
+            <file>file:/D:/Aptech_Sem4/GitHub/dntShop/dntShop_ejb/src/java/entity/Wishlist.java</file>
+            <file>file:/D:/Aptech_Sem4/GitHub/dntShop/dntShop_ejb/src/java/entity/Items.java</file>
+            <file>file:/D:/Aptech_Sem4/GitHub/dntShop/dntShop_ejb/src/java/entity/Customers.java</file>
+            <file>file:/D:/Aptech_Sem4/GitHub/dntShop/dntShop_ejb/src/java/entity/Categories.java</file>
+            <file>file:/D:/Aptech_Sem4/GitHub/dntShop/dntShop_ejb/src/java/entity/ComparedProduct.java</file>
+            <file>file:/D:/Aptech_Sem4/GitHub/dntShop/dntShop_ejb/src/java/bean/WishlistFacade.java</file>
+            <file>file:/D:/Aptech_Sem4/GitHub/dntShop/dntShop_ejb/src/java/entity/Cart.java</file>
+            <file>file:/D:/Aptech_Sem4/GitHub/dntShop/dntShop_ejb/src/java/bean/ProductsDetailsFacadeLocal.java</file>
+            <file>file:/D:/Aptech_Sem4/GitHub/dntShop/dntShop_ejb/src/java/bean/ProductsDetailsFacade.java</file>
+        </group>
+        <group name="GitHub"/>
+    </open-files>
+</project-private>
